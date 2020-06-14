@@ -58,7 +58,9 @@ Referência: https://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/ola.png">
 
-Em background, aguardará de forma passiva a conexão com o APP. Para esta simulação, vamos utilizar a serial para a entrada e saida de dados.
+Em background, aguardará de forma passiva a conexão com o APP. 
+
+Para esta simulação, vamos utilizar a serial para a entrada e saida de dados.
 
 Um código numérico na entrada da serial simula o handshake entre o app e o device.
 
