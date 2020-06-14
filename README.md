@@ -14,18 +14,24 @@ Este projeto pode ser implantado em uma pulseira inteligente ou um APP instalado
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/arduino-UNO.png">
 
-
-Decidios utilizar o Arduino UNO, sensores e componentes eletrônicos para simular a prova de conceito. 
+Pela facilidade de simulação decidios utilizar o Arduino UNO, sensores e componentes eletrônicos para a prova de conceito. 
 
 ### ThinkerCAD
+
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/TinkerCAD.jpg" width="200">
 
-Para simular o projeto utilizamos o Thinkercad.
-O Tinkercad é um programa on-line gratuito de simulação de Arduino que roda em um navegador da web.
+Como não teriamos tempo habil para encomendar, comprar e receber as peças e componentes eletronicos para realizar a prova de conceito descidimos utilizar o simulador de Arduino do TinkerCAD.
+
+O TinkerCAD é um programa on-line gratuito de simulação de Arduino que roda em um navegador da web.
 Ele é conhecido por sua simplicidade e facilidade de uso.
 
+### Componentes Necessários
 
-## Como funciona um acelerômetro
+<img src="https://github.com/alecatuae/poeaMascara/blob/master/img/componentes.PNG">
+
+Observação: O Componente Sparkfun MMA7361 Breakout, simula um acelerometro. Na lista principal do ThinkerCAD ele não é encontrado. Encontrei este componente dentro de um projeto publico no proprio ThinkerCAD o qual importamos para usar no projeto. Link para o projeto importado: https://www.tinkercad.com/things/e1uPGe1SFGW-copy-of-copy-of-152-accelerometer
+
+### Como funciona um acelerômetro
 Um acelerômetro funciona com o princípio do efeito piezoelétrico, que é a capacidade de alguns cristais gerarem tensão elétrica por resposta a uma pressão mecânica. Agora Imagine uma caixa com uma bola pequena dentro dela, como na imagem abaixo.
 
 ![Imagem](https://github.com/alecatuae/poeaMascara/blob/master/img/exemplo_func_acelerometro.png)
