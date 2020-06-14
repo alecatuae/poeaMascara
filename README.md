@@ -11,7 +11,8 @@ Este projeto pode ser implantado em uma pulseira inteligente ou um APP instalado
 ## O Prototipo 
 
 ### Arduino
-Decidios utilizar o Arduino UNO, sensores e componentes eletrônicos para simular o funcionamento. 
+![Imagem](https://github.com/alecatuae/poeaMascara/blob/master/img/arduino-UNO.png)
+Decidios utilizar o Arduino UNO, sensores e componentes eletrônicos para simular a prova de conceito. 
 
 ### ThinkerCAD
 Para simular o projeto utilizamos o Thinkercad.
