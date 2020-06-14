@@ -48,4 +48,20 @@ Fonte: DiY Hacking
 
 As paredes desta caixa são feitas com cristais piezoelétricos. Sempre que você inclina a caixa, a bola é forçada a se mover na direção da inclinação, devido à gravidade. A parede em que a bola colide cria pequenas correntes conforme ele toca em alguma das seis paredes do cubo. Cada par de paredes corresponde a um eixo no espaço 3D: eixos X, Y e Z. Dependendo da corrente produzida a partir das paredes piezoelétricas, podemos determinar a direção da inclinação e sua magnitude.
 
-### Referencia: https://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-mpu6050/
+Referência: https://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-mpu6050/
+
+## Como Funciona
+
+### Tela de boas Vindas
+
+1. Ao ligar a simulação, mensagens de boas vindas aparecerá para o usuário.
+
+<img src="https://github.com/alecatuae/poeaMascara/blob/master/img/ola.PNG">
+
+Em background, aguardará de forma passiva a conexão com o APP. Para esta simulação, vamos utilizar a serial para a entrada e saida de dados.
+
+Um código numérico na entrada da serial simula o handshake entre o app e o device.
+
+2. 
+
+
