@@ -76,8 +76,8 @@ Um código numérico na entrada da serial simula o handshake entre o app e o dev
     - Para chamar a atenção à mensagem o dispositivo vibrará até que o usuário interaja com o dispositivo clicando no botão reset.
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/useamascara.PNG">
 
-    ##### Como simular :dart:
+##### Como simular :dart:
 
     - Clique no componente Acelerometro até que a mensagem apareça no display.
 
-    <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/sensorAcelerometro.PNG">      
+<img src="https://github.com/alecatuae/poeaMascara/blob/master/img/sensorAcelerometro.PNG">      
