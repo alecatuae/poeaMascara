@@ -11,7 +11,9 @@ Este projeto pode ser implantado em uma pulseira inteligente ou um APP instalado
 ## O Prototipo 
 
 ### Arduino
-![Imagem](https://github.com/alecatuae/poeaMascara/blob/master/img/arduino-UNO.png){:width="200px"}
+
+<img src="https://github.com/alecatuae/poeaMascara/blob/master/img/arduino-UNO.png">
+
 
 Decidios utilizar o Arduino UNO, sensores e componentes eletrônicos para simular a prova de conceito. 
 
