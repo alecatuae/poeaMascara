@@ -69,5 +69,5 @@ Um código numérico na entrada da serial simula o handshake entre o app e o dev
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/temperatura.PNG">
 
 3. Detectando que o usuário deu determinado numero de passos seguidos, uma mensagem é gerada na tela **lembrando o usuário de usar a mascará e usar alcool em gel**.
-- Para chamar a atenção à mensagem o dispositivo vibrará até que o usuário interaja com o dispositivo clicando no botão reset.
+    - Para chamar a atenção à mensagem o dispositivo vibrará até que o usuário interaja com o dispositivo clicando no botão reset.
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/usemascara.PNG">
