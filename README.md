@@ -64,6 +64,8 @@ Para esta simulação, vamos utilizar a serial para a entrada e saida de dados.
 
 Um código numérico na entrada da serial simula o handshake entre o app e o device.
 
-2. 
+2. Na tela principal mostra-se a temperatura corporal do usuário.
+
+<img src="https://github.com/alecatuae/poeaMascara/blob/master/img/temperatura.PNG">
 
 
