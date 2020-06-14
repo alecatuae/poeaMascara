@@ -25,6 +25,13 @@ Como não teriamos tempo habil para encomendar, comprar e receber as peças e co
 O TinkerCAD é um programa on-line gratuito de simulação de Arduino que roda em um navegador da web.
 Ele é conhecido por sua simplicidade e facilidade de uso.
 
+
+### Scketch
+
+<img src="https://github.com/alecatuae/poeaMascara/blob/master/img/Desenho.PNG">
+
+
+
 ### Componentes Necessários
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/componentes.PNG">
