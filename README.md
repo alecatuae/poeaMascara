@@ -1,5 +1,23 @@
-# poeaMascara
- Projeto de IoT com simulação de acelerometro que identifica a movimentão continua da pessoa e a lembra de utilizar a máscara e usar alcool em Gel
+# Lembrete
+
+Para evitar que nossos usuários fiquem espostos e que não esqueçam de se protegerem em época e pós pantemina, devidimos criar um dispositivo capaz de Lembra-lo de se proteger.  
+
+Este projeto de IoT identifica com acelerometro a movimentão continua da pessoa e a lembra de utilizar a máscara e usar alcool em Gel.
+
+Também mede constantemente a temperatura do usuário e o alerta se há temperatura acima ou abaixo de 36 graus por um determinado período de tempo.
+
+Este projeto pode ser implantado em uma pulseira inteligente ou um APP instalado em um Smart Watch moderno como o Apple Watch ou Samsung Galaxy Watch.  
+
+## O Prototipo 
+
+### Arduino
+Decidios utilizar o Arduino UNO, sensores e componentes eletrônicos para simular o funcionamento. 
+
+### ThinkerCAD
+Para simular o projeto utilizamos o Thinkercad.
+O Tinkercad é um programa on-line gratuito de simulação de Arduino que roda em um navegador da web.
+Ele é conhecido por sua simplicidade e facilidade de uso.
+
 
 ## Como funciona um acelerômetro
 Um acelerômetro funciona com o princípio do efeito piezoelétrico, que é a capacidade de alguns cristais gerarem tensão elétrica por resposta a uma pressão mecânica. Agora Imagine uma caixa com uma bola pequena dentro dela, como na imagem abaixo.
