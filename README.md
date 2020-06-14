@@ -28,7 +28,7 @@ Ele é conhecido por sua simplicidade e facilidade de uso.
 
 ### Scketch
 
-<img src="https://github.com/alecatuae/poeaMascara/blob/master/img/Desenho.PNG">
+<img src="https://github.com/alecatuae/poeaMascara/blob/master/img/Desenhoinformativo.PNG">
 
 
 
