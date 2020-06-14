@@ -11,12 +11,12 @@ Este projeto pode ser implantado em uma pulseira inteligente ou um APP instalado
 ## O Prototipo 
 
 ### Arduino
-![Imagem](https://github.com/alecatuae/poeaMascara/blob/master/img/arduino-UNO.png| width=200)
+![Imagem](https://github.com/alecatuae/poeaMascara/blob/master/img/arduino-UNO.png | width=200)
 
 Decidios utilizar o Arduino UNO, sensores e componentes eletrônicos para simular a prova de conceito. 
 
 ### ThinkerCAD
-![Imagem](https://github.com/alecatuae/poeaMascara/blob/master/img/TinkerCAD.jpg| width=200)
+![Imagem](https://github.com/alecatuae/poeaMascara/blob/master/img/TinkerCAD.jpg | width=200)
 
 Para simular o projeto utilizamos o Thinkercad.
 O Tinkercad é um programa on-line gratuito de simulação de Arduino que roda em um navegador da web.
