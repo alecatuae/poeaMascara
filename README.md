@@ -52,9 +52,9 @@ Referência: https://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-
 
 ## Como Funciona
 
-### Tela de boas Vindas
+### 1. Tela de boas Vindas
 
-1. Ao ligar a simulação, mensagens de boas vindas aparecerá para o usuário.
+- Ao ligar a simulação, mensagens de boas vindas aparecerá para o usuário.
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/ola.png">
 
@@ -66,12 +66,12 @@ Referência: https://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-
 
 
 
-2. Na tela principal mostra-se a temperatura corporal do usuário.
+- Na tela principal mostra-se a temperatura corporal do usuário.
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/temperatura.PNG">
 
 
-### Lembrando o usuário de usar a máscara e levar o alcool em gel.
+### 2. Lembrando o usuário de usar a máscara e levar o alcool em gel.
 
     Após o usuário dar determinado número de passos seguidos, a mensagem abaixo é gerada na tela.
 
