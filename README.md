@@ -73,13 +73,13 @@ Referência: https://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-
 
 ### 2. Lembrando o usuário de usar a máscara e levar o alcool em gel.
 
-    Após o usuário dar determinado número de passos seguidos, a mensagem abaixo é gerada na tela.
+- Após o usuário dar determinado número de passos seguidos, a mensagem abaixo é gerada na tela.
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/useamascara.PNG">
 
 Esta mensagem lembra o usuário de usar a mascará e levar alcool em gel a tempo de voltar e buscar em casa caso tenha esquecido.
 
-    Para chamar a atenção à mensagem o dispositivo vibrará até que o usuário interaja com o dispositivo clicando no botão reset.
+- Para chamar a atenção à mensagem o dispositivo vibrará até que o usuário interaja com o dispositivo clicando no botão reset.
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/vibrar.PNG">
 
