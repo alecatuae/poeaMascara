@@ -83,7 +83,7 @@ Esta mensagem lembra o usuário de usar a mascará e levar alcool em gel a tempo
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/vibrar.PNG">
 
-#### Como simular :dart:
+#### COMO SIMULAR :dart:
 
     Clique no componente Acelerometro até que a mensagem apareça no display.
 
