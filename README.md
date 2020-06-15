@@ -77,7 +77,8 @@ Referência: https://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/useamascara.PNG">
 
-    Esta mensagem lembra o usuário de usar a mascará e levar alcool em gel a tempo de voltar e buscar em casa caso tenha esquecido.
+    Esta mensagem lembra o usuário de usar a mascará e levar alcool em gel a tempo de voltar e buscar em casa 
+    caso tenha esquecido.
 
 - Para chamar a atenção à mensagem o dispositivo vibrará até que o usuário interaja com o dispositivo clicando no botão reset.
 
