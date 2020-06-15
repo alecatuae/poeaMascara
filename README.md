@@ -90,6 +90,11 @@ Referência: https://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/sensorAcelerometro.PNG">
 
+   > Reset clicando no botão abaixo.
+
+<img src="https://github.com/alecatuae/poeaMascara/blob/master/img/reset.PNG">
+
+
 ### 3. Alertando quando a temperatura corporal do usuário estiver fora do normal
 
     O usuário será alertado quando sua temperatura corporal estiver acima ou abaixo do normal por um período de 
@@ -101,3 +106,7 @@ Referência: https://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-
    > Deslize a barra do **sensor de temperatura** para a esquerda ou direita.
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/sensortemp.png">
+
+   > Reset clicando no botão abaixo.
+
+<img src="https://github.com/alecatuae/poeaMascara/blob/master/img/reset.PNG">
