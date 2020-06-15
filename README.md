@@ -77,7 +77,7 @@ Referência: https://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/useamascara.PNG">
 
-    Esta mensagem lembra o usuário de usar a mascará e levar alcool em gel a tempo de voltar e buscar em casa 
+    Esta mensagem lembra o usuário de usar a máscara e levar alcool em gel a tempo de voltar e buscar em casa 
     caso tenha esquecido.
 
 - Para chamar a atenção à mensagem o dispositivo vibrará até que o usuário interaja com o dispositivo clicando no botão reset.
@@ -88,4 +88,16 @@ Referência: https://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-
 
    > Clique no componente **acelerômetro** até que a mensagem apareça no display.
 
-<img src="https://github.com/alecatuae/poeaMascara/blob/master/img/sensorAcelerometro.PNG">      
+<img src="https://github.com/alecatuae/poeaMascara/blob/master/img/sensorAcelerometro.PNG">
+
+### 3. Alertando quando a temperatura corporal do usuário estiver fora do normal
+
+    O usuário será alertado quando sua temperatura corporal estiver acima ou abaixo do normal por um período de 
+    tempo consideravel, o recomendando a pucurar um médico. 
+
+
+#### COMO SIMULAR :zap: 
+
+   > Deslize a barra do **sensor de temperatura** para a esquerda ou direita.
+
+<img src="https://github.com/alecatuae/poeaMascara/blob/master/img/sensortemp.png">
