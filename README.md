@@ -85,6 +85,6 @@ Referência: https://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-
 
 #### COMO SIMULAR :dart:
 
-    Clique no componente Acelerometro até que a mensagem apareça no display.
+   > Clique no componente Acelerometro até que a mensagem apareça no display.
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/sensorAcelerometro.PNG">      
