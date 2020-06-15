@@ -83,7 +83,7 @@ Referência: https://autocorerobotica.blog.br/aprenda-a-utilizar-o-acelerometro-
 
 <img src="https://github.com/alecatuae/poeaMascara/blob/master/img/vibrar.PNG">
 
-#### COMO SIMULAR :zap:
+#### :zap: COMO SIMULAR 
 
    > Clique no componente **acelerômetro** até que a mensagem apareça no display.
 
